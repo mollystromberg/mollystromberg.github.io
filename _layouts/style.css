@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Kranky);
+
+#navbar {
+  font-family: 'Kranky';
+  font-size: 2em;
+  color: red;
+}
