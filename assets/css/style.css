@@ -1,5 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Kranky);
+
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
   height: 1080px;
+}
+
+#navbar {
+  font-family: 'Kranky';
+  font-size: 2em;
+  color: purple;
 }
