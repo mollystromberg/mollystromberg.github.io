@@ -13,7 +13,8 @@
 #navbar {
   font-family: 'Comfortaa';
   font-size: 1em;
-  color: purple;
+  color: violet;
+
 }
 #cuteness {
   font-family: 'Kranky';
@@ -23,5 +24,6 @@
 
 #content {
   font-family: 'Comfortaa';
-  font-size: 30px;
+  font-size: 20px;
+  padding: 40px
 }
