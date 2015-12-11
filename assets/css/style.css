@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
 @import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
 @import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fonts.googleapis.com/css?family=Muli);
 
 
 .col-md-1 {
@@ -24,8 +25,10 @@
   padding: 10px;
 }
 section {
-  font-family: 'Comfortaa';
-  font-size: 17px;
 padding: 10px;
 margin-top: 50px;
+}
+p {
+  font-family: 'Muli';
+  font-size: 15px; 
 }
