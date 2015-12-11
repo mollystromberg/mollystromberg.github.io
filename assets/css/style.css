@@ -13,8 +13,13 @@
   font-size: 1.5em;
   color: purple;
 }
-.page.title {
+#title {
   font-family: 'Kranky';
   font-size: 3em;
   color: blue;
+}
+#subtitle {
+  font-family: 'Kranky';
+  font-size:2.5em;
+  color: grey;
 }
