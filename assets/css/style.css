@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Kranky);
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
 @import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
 
 
 .col-md-1 {
@@ -10,17 +11,17 @@
 }
 
 #navbar {
-  font-family: 'Didact+Gothic';
-  font-size: 2em;
+  font-family: 'Comfortaa';
+  font-size: 1em;
   color: purple;
 }
-#title {
+#cuteness {
   font-family: 'Kranky';
   font-size: 6em;
   color: grey;
 }
 
 #content {
-  font-family: 'Didact+Gothic';
-  font-size: 3px;
+  font-family: 'Comfortaa';
+  font-size: 30px;
 }
