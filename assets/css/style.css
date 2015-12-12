@@ -45,13 +45,9 @@ img.displayed {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding: 15px;
 }
 
-p.blocktext {
-  margin-left: auto;
-  margin-right: auto;
-  width: 6em;
-}
 
 footer {
   margin-top: 20px;
