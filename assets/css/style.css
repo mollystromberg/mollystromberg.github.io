@@ -24,6 +24,7 @@ a {
   font-family: 'Comfortaa';
   font-size: 22px;
   color: white;
+  background-color: grey;
 }
 
 #cuteness {
@@ -48,10 +49,6 @@ img.displayed {
   padding: 10px;
 }
 
-#huff {
-  color: grey;
-  
-}
 
 footer {
   margin-top: 20px;
