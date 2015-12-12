@@ -42,9 +42,15 @@ p {
 }
 
 img.displayed {
-  display: block; 
+  display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+p.blocktext {
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
 }
 
 footer {
