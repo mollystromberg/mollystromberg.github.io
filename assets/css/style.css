@@ -45,9 +45,13 @@ img.displayed {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 15px;
+  padding: 10px;
 }
 
+#huff {
+  color: grey;
+  
+}
 
 footer {
   margin-top: 20px;
